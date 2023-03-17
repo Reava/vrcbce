@@ -26,4 +26,31 @@ VRC.Udon.Editor.csproj
 VRC.Udon.Editor.UPMImporter.csproj
 VRC.Udon.Serialization.OdinSerializer.csproj
 VRCBCE.sln
+<<<<<<< HEAD
 !/Packages/com.vrcbilliards.vrcbce
+=======
+!/Packages/com.vrcbilliards.vrcbce
+VRWorldToolkit.Editor.csproj
+vrchat.jordo.easyquestswitch.Editor.csproj
+vrchat.jordo.easyquestswitch.csproj
+com.vrchat.core.vpm-resolver.Editor.csproj
+FilamentedGUI.csproj
+UdonSharp.Lib.csproj
+UniTask.Addressables.csproj
+UniTask.csproj
+UniTask.DOTween.csproj
+UniTask.Editor.csproj
+UniTask.Linq.csproj
+UniTask.TextMeshPro.csproj
+VRC.ClientSim.csproj
+VRC.ClientSim.Editor.csproj
+VRC.SDK3.csproj
+VRC.SDK3.Editor.csproj
+VRC.SDKBase.csproj
+VRC.SDKBase.Editor.csproj
+VRCBE Dev.sln
+VRCBilliards.VRCBCE.Runtime.csproj
+.erp
+com.ben-w.erp.csproj
+Exports/UnityRichPresence_4.0.0.unitypackage
+>>>>>>> parent of 081a693 (Revert "Update .gitignore")
