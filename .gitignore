@@ -47,3 +47,6 @@ VRC.SDKBase.csproj
 VRC.SDKBase.Editor.csproj
 VRCBE Dev.sln
 VRCBilliards.VRCBCE.Runtime.csproj
+.erp
+com.ben-w.erp.csproj
+Exports/UnityRichPresence_4.0.0.unitypackage
